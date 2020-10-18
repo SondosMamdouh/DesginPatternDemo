@@ -1,0 +1,13 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\bin\Debug\netcoreapp3.1\BridgeDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\bin\Debug\netcoreapp3.1\BridgeDemo.deps.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\bin\Debug\netcoreapp3.1\BridgeDemo.runtimeconfig.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\bin\Debug\netcoreapp3.1\BridgeDemo.runtimeconfig.dev.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\bin\Debug\netcoreapp3.1\BridgeDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\bin\Debug\netcoreapp3.1\BridgeDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\obj\Debug\netcoreapp3.1\BridgeDemo.csprojAssemblyReference.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\obj\Debug\netcoreapp3.1\BridgeDemo.AssemblyInfoInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\obj\Debug\netcoreapp3.1\BridgeDemo.AssemblyInfo.cs
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\obj\Debug\netcoreapp3.1\BridgeDemo.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\obj\Debug\netcoreapp3.1\BridgeDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\obj\Debug\netcoreapp3.1\BridgeDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\BridgeDemo\obj\Debug\netcoreapp3.1\BridgeDemo.genruntimeconfig.cache

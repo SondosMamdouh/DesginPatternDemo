@@ -1,0 +1,7 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\AdapterDemo\bin\Debug\AdapterDemo.exe.config
+D:\CDP\DesignPattrens\DesginPattrenDemos\AdapterDemo\bin\Debug\AdapterDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\AdapterDemo\bin\Debug\AdapterDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\AdapterDemo\obj\Debug\AdapterDemo.csprojAssemblyReference.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\AdapterDemo\obj\Debug\AdapterDemo.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\AdapterDemo\obj\Debug\AdapterDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\AdapterDemo\obj\Debug\AdapterDemo.pdb
