@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBuilderDemo", "TheBuilde
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponibilityDemo", "ChainOdResponibilityDemo\ChainOfResponibilityDemo.csproj", "{461F3332-F4E8-4F84-A7AD-8E0C7D7542EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCommandDemo", "TheCommandDemo\TheCommandDemo.csproj", "{FF2D3820-31FE-48C0-BE24-D601DC9F22C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{461F3332-F4E8-4F84-A7AD-8E0C7D7542EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{461F3332-F4E8-4F84-A7AD-8E0C7D7542EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{461F3332-F4E8-4F84-A7AD-8E0C7D7542EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF2D3820-31FE-48C0-BE24-D601DC9F22C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2D3820-31FE-48C0-BE24-D601DC9F22C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2D3820-31FE-48C0-BE24-D601DC9F22C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2D3820-31FE-48C0-BE24-D601DC9F22C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

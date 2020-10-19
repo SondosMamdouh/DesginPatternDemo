@@ -1,0 +1,12 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\bin\Debug\netcoreapp3.1\TheCommandDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\bin\Debug\netcoreapp3.1\TheCommandDemo.deps.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\bin\Debug\netcoreapp3.1\TheCommandDemo.runtimeconfig.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\bin\Debug\netcoreapp3.1\TheCommandDemo.runtimeconfig.dev.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\bin\Debug\netcoreapp3.1\TheCommandDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\bin\Debug\netcoreapp3.1\TheCommandDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\obj\Debug\netcoreapp3.1\TheCommandDemo.AssemblyInfoInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\obj\Debug\netcoreapp3.1\TheCommandDemo.AssemblyInfo.cs
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\obj\Debug\netcoreapp3.1\TheCommandDemo.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\obj\Debug\netcoreapp3.1\TheCommandDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\obj\Debug\netcoreapp3.1\TheCommandDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheCommandDemo\obj\Debug\netcoreapp3.1\TheCommandDemo.genruntimeconfig.cache
