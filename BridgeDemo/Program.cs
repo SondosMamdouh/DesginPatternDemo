@@ -6,9 +6,6 @@ namespace BridgeDemo
 
     {
         protected Implementor implementor;
-
-        // Property
-
         public Implementor Implementor
         {
             set { implementor = value; }
@@ -20,23 +17,12 @@ namespace BridgeDemo
         }
     }
 
-    /// <summary>
-
-    /// The 'Implementor' abstract class
-
-    /// </summary>
-
     abstract class Implementor
 
     {
         public abstract void Operation();
     }
 
-    /// <summary>
-
-    /// The 'RefinedAbstraction' class
-
-    /// </summary>
 
     class RefinedAbstraction : Abstraction
 
@@ -47,11 +33,6 @@ namespace BridgeDemo
         }
     }
 
-    /// <summary>
-
-    /// The 'ConcreteImplementorA' class
-
-    /// </summary>
 
     class ConcreteImplementorA : Implementor
 
@@ -62,11 +43,6 @@ namespace BridgeDemo
         }
     }
 
-    /// <summary>
-
-    /// The 'ConcreteImplementorB' class
-
-    /// </summary>
 
     class ConcreteImplementorB : Implementor
 
@@ -83,17 +59,14 @@ namespace BridgeDemo
         {
             Abstraction ab = new RefinedAbstraction();
 
-            // Set implementation and call
 
             ab.Implementor = new ConcreteImplementorA();
             ab.Operation();
 
-            // Change implemention and call
 
             ab.Implementor = new ConcreteImplementorB();
             ab.Operation();
 
-            // Wait for user
 
             Console.ReadKey();
         }

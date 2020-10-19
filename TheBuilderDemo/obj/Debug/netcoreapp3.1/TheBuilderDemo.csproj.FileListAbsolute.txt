@@ -1,0 +1,13 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\bin\Debug\netcoreapp3.1\TheBuilderDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\bin\Debug\netcoreapp3.1\TheBuilderDemo.deps.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\bin\Debug\netcoreapp3.1\TheBuilderDemo.runtimeconfig.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\bin\Debug\netcoreapp3.1\TheBuilderDemo.runtimeconfig.dev.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\bin\Debug\netcoreapp3.1\TheBuilderDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\bin\Debug\netcoreapp3.1\TheBuilderDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\obj\Debug\netcoreapp3.1\TheBuilderDemo.csprojAssemblyReference.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\obj\Debug\netcoreapp3.1\TheBuilderDemo.AssemblyInfoInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\obj\Debug\netcoreapp3.1\TheBuilderDemo.AssemblyInfo.cs
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\obj\Debug\netcoreapp3.1\TheBuilderDemo.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\obj\Debug\netcoreapp3.1\TheBuilderDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\obj\Debug\netcoreapp3.1\TheBuilderDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\TheBuilderDemo\obj\Debug\netcoreapp3.1\TheBuilderDemo.genruntimeconfig.cache
