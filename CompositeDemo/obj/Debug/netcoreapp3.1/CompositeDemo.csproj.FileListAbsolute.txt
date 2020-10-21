@@ -1,0 +1,12 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\bin\Debug\netcoreapp3.1\CompositeDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\bin\Debug\netcoreapp3.1\CompositeDemo.deps.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\bin\Debug\netcoreapp3.1\CompositeDemo.runtimeconfig.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\bin\Debug\netcoreapp3.1\CompositeDemo.runtimeconfig.dev.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\bin\Debug\netcoreapp3.1\CompositeDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\bin\Debug\netcoreapp3.1\CompositeDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\obj\Debug\netcoreapp3.1\CompositeDemo.AssemblyInfoInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\obj\Debug\netcoreapp3.1\CompositeDemo.AssemblyInfo.cs
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\obj\Debug\netcoreapp3.1\CompositeDemo.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\obj\Debug\netcoreapp3.1\CompositeDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\obj\Debug\netcoreapp3.1\CompositeDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\obj\Debug\netcoreapp3.1\CompositeDemo.genruntimeconfig.cache
