@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeDemo", "CompositeD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorDemo", "DecoratorDemo\DecoratorDemo.csproj", "{B00407FA-59CB-4456-9D7F-6FE6520A8FBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletoneDemo", "SingletoneDemo\SingletoneDemo.csproj", "{07583947-220D-4F7C-B800-4125F755FEFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletoneDemo", "SingletoneDemo\SingletoneDemo.csproj", "{07583947-220D-4F7C-B800-4125F755FEFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{29ECCA7A-B2A0-4BAF-B081-444652E5DDEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventAggregatorDemo", "EventAggregatorDemo\EventAggregatorDemo.csproj", "{B22345CC-96B0-4697-ADA7-BC9FB8AB1E40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{07583947-220D-4F7C-B800-4125F755FEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07583947-220D-4F7C-B800-4125F755FEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07583947-220D-4F7C-B800-4125F755FEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29ECCA7A-B2A0-4BAF-B081-444652E5DDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29ECCA7A-B2A0-4BAF-B081-444652E5DDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29ECCA7A-B2A0-4BAF-B081-444652E5DDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29ECCA7A-B2A0-4BAF-B081-444652E5DDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22345CC-96B0-4697-ADA7-BC9FB8AB1E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22345CC-96B0-4697-ADA7-BC9FB8AB1E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22345CC-96B0-4697-ADA7-BC9FB8AB1E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22345CC-96B0-4697-ADA7-BC9FB8AB1E40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
