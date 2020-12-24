@@ -1,0 +1,13 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.deps.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.dev.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csprojAssemblyReference.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfoInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfo.cs
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.genruntimeconfig.cache
