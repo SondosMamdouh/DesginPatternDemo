@@ -10,3 +10,4 @@ D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\obj\Debug\netcoreapp3.1\C
 D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\obj\Debug\netcoreapp3.1\CompositeDemo.dll
 D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\obj\Debug\netcoreapp3.1\CompositeDemo.pdb
 D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\obj\Debug\netcoreapp3.1\CompositeDemo.genruntimeconfig.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\CompositeDemo\obj\Debug\netcoreapp3.1\CompositeDemo.csprojAssemblyReference.cache

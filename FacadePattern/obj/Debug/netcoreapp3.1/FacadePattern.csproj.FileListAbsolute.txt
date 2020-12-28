@@ -10,3 +10,4 @@ D:\CDP\DesignPattrens\DesginPattrenDemos\FacadePattern\obj\Debug\netcoreapp3.1\F
 D:\CDP\DesignPattrens\DesginPattrenDemos\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.dll
 D:\CDP\DesignPattrens\DesginPattrenDemos\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.pdb
 D:\CDP\DesignPattrens\DesginPattrenDemos\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.genruntimeconfig.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.csprojAssemblyReference.cache

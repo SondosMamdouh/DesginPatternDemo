@@ -10,3 +10,4 @@ D:\CDP\DesignPattrens\DesginPattrenDemos\SingletoneDemo\obj\Debug\netcoreapp3.1\
 D:\CDP\DesignPattrens\DesginPattrenDemos\SingletoneDemo\obj\Debug\netcoreapp3.1\SingletoneDemo.dll
 D:\CDP\DesignPattrens\DesginPattrenDemos\SingletoneDemo\obj\Debug\netcoreapp3.1\SingletoneDemo.pdb
 D:\CDP\DesignPattrens\DesginPattrenDemos\SingletoneDemo\obj\Debug\netcoreapp3.1\SingletoneDemo.genruntimeconfig.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\SingletoneDemo\obj\Debug\netcoreapp3.1\SingletoneDemo.csprojAssemblyReference.cache

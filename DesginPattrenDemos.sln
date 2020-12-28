@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadePattern", "FacadePatt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventAggregatorDemo", "EventAggregatorDemo\EventAggregatorDemo.csproj", "{B22345CC-96B0-4697-ADA7-BC9FB8AB1E40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{7A708364-1E8A-4CFE-B157-716C2977A42E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{7A708364-1E8A-4CFE-B157-716C2977A42E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodDemo", "FactoryMethodDemo\FactoryMethodDemo.csproj", "{8CAD6D6B-689C-450D-BA41-9B9F0C386EEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyWeightDemo", "FlyWeightDemo\FlyWeightDemo.csproj", "{638F0253-2D32-456B-BF30-13D6A84F620B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{7A708364-1E8A-4CFE-B157-716C2977A42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A708364-1E8A-4CFE-B157-716C2977A42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A708364-1E8A-4CFE-B157-716C2977A42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CAD6D6B-689C-450D-BA41-9B9F0C386EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAD6D6B-689C-450D-BA41-9B9F0C386EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAD6D6B-689C-450D-BA41-9B9F0C386EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAD6D6B-689C-450D-BA41-9B9F0C386EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{638F0253-2D32-456B-BF30-13D6A84F620B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638F0253-2D32-456B-BF30-13D6A84F620B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638F0253-2D32-456B-BF30-13D6A84F620B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638F0253-2D32-456B-BF30-13D6A84F620B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

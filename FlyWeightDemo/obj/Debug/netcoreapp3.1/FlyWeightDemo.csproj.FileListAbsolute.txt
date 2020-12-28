@@ -1,0 +1,13 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\bin\Debug\netcoreapp3.1\FlyWeightDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\bin\Debug\netcoreapp3.1\FlyWeightDemo.deps.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\bin\Debug\netcoreapp3.1\FlyWeightDemo.runtimeconfig.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\bin\Debug\netcoreapp3.1\FlyWeightDemo.runtimeconfig.dev.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\bin\Debug\netcoreapp3.1\FlyWeightDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\bin\Debug\netcoreapp3.1\FlyWeightDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\obj\Debug\netcoreapp3.1\FlyWeightDemo.AssemblyInfoInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\obj\Debug\netcoreapp3.1\FlyWeightDemo.AssemblyInfo.cs
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\obj\Debug\netcoreapp3.1\FlyWeightDemo.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\obj\Debug\netcoreapp3.1\FlyWeightDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\obj\Debug\netcoreapp3.1\FlyWeightDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\obj\Debug\netcoreapp3.1\FlyWeightDemo.genruntimeconfig.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\FlyWeightDemo\obj\Debug\netcoreapp3.1\FlyWeightDemo.csprojAssemblyReference.cache
