@@ -1,0 +1,13 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\bin\Debug\netcoreapp3.1\InterpreterDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\bin\Debug\netcoreapp3.1\InterpreterDemo.deps.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\bin\Debug\netcoreapp3.1\InterpreterDemo.runtimeconfig.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\bin\Debug\netcoreapp3.1\InterpreterDemo.runtimeconfig.dev.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\bin\Debug\netcoreapp3.1\InterpreterDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\bin\Debug\netcoreapp3.1\InterpreterDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\obj\Debug\netcoreapp3.1\InterpreterDemo.csprojAssemblyReference.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\obj\Debug\netcoreapp3.1\InterpreterDemo.AssemblyInfoInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\obj\Debug\netcoreapp3.1\InterpreterDemo.AssemblyInfo.cs
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\obj\Debug\netcoreapp3.1\InterpreterDemo.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\obj\Debug\netcoreapp3.1\InterpreterDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\obj\Debug\netcoreapp3.1\InterpreterDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\InterpreterDemo\obj\Debug\netcoreapp3.1\InterpreterDemo.genruntimeconfig.cache

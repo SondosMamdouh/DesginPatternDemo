@@ -1,0 +1,13 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\bin\Debug\netcoreapp3.1\IteratorDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\bin\Debug\netcoreapp3.1\IteratorDemo.deps.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\bin\Debug\netcoreapp3.1\IteratorDemo.runtimeconfig.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\bin\Debug\netcoreapp3.1\IteratorDemo.runtimeconfig.dev.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\bin\Debug\netcoreapp3.1\IteratorDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\bin\Debug\netcoreapp3.1\IteratorDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\obj\Debug\netcoreapp3.1\IteratorDemo.csprojAssemblyReference.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\obj\Debug\netcoreapp3.1\IteratorDemo.AssemblyInfoInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\obj\Debug\netcoreapp3.1\IteratorDemo.AssemblyInfo.cs
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\obj\Debug\netcoreapp3.1\IteratorDemo.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\obj\Debug\netcoreapp3.1\IteratorDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\obj\Debug\netcoreapp3.1\IteratorDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\IteratorDemo\obj\Debug\netcoreapp3.1\IteratorDemo.genruntimeconfig.cache
