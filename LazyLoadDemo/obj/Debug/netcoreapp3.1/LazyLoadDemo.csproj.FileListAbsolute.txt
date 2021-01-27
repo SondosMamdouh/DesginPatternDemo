@@ -1,0 +1,13 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\bin\Debug\netcoreapp3.1\LazyLoadDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\bin\Debug\netcoreapp3.1\LazyLoadDemo.deps.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\bin\Debug\netcoreapp3.1\LazyLoadDemo.runtimeconfig.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\bin\Debug\netcoreapp3.1\LazyLoadDemo.runtimeconfig.dev.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\bin\Debug\netcoreapp3.1\LazyLoadDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\bin\Debug\netcoreapp3.1\LazyLoadDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\obj\Debug\netcoreapp3.1\LazyLoadDemo.AssemblyInfoInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\obj\Debug\netcoreapp3.1\LazyLoadDemo.AssemblyInfo.cs
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\obj\Debug\netcoreapp3.1\LazyLoadDemo.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\obj\Debug\netcoreapp3.1\LazyLoadDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\obj\Debug\netcoreapp3.1\LazyLoadDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\obj\Debug\netcoreapp3.1\LazyLoadDemo.genruntimeconfig.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\LazyLoadDemo\obj\Debug\netcoreapp3.1\LazyLoadDemo.csprojAssemblyReference.cache

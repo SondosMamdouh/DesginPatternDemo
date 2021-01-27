@@ -1,0 +1,12 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\bin\Debug\netcoreapp3.1\MementoDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\bin\Debug\netcoreapp3.1\MementoDemo.deps.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\bin\Debug\netcoreapp3.1\MementoDemo.runtimeconfig.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\bin\Debug\netcoreapp3.1\MementoDemo.runtimeconfig.dev.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\bin\Debug\netcoreapp3.1\MementoDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\bin\Debug\netcoreapp3.1\MementoDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\obj\Debug\netcoreapp3.1\MementoDemo.AssemblyInfoInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\obj\Debug\netcoreapp3.1\MementoDemo.AssemblyInfo.cs
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\obj\Debug\netcoreapp3.1\MementoDemo.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\obj\Debug\netcoreapp3.1\MementoDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\obj\Debug\netcoreapp3.1\MementoDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\MementoDemo\obj\Debug\netcoreapp3.1\MementoDemo.genruntimeconfig.cache

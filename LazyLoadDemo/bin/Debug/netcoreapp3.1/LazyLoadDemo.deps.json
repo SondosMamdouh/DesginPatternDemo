@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LazyLoadDemo/1.0.0": {
+        "runtime": {
+          "LazyLoadDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LazyLoadDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

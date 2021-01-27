@@ -1,0 +1,12 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\bin\Debug\netcoreapp3.1\MediatorDemo.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\bin\Debug\netcoreapp3.1\MediatorDemo.deps.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\bin\Debug\netcoreapp3.1\MediatorDemo.runtimeconfig.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\bin\Debug\netcoreapp3.1\MediatorDemo.runtimeconfig.dev.json
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\bin\Debug\netcoreapp3.1\MediatorDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\bin\Debug\netcoreapp3.1\MediatorDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\obj\Debug\netcoreapp3.1\MediatorDemo.AssemblyInfoInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\obj\Debug\netcoreapp3.1\MediatorDemo.AssemblyInfo.cs
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\obj\Debug\netcoreapp3.1\MediatorDemo.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\obj\Debug\netcoreapp3.1\MediatorDemo.dll
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\obj\Debug\netcoreapp3.1\MediatorDemo.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\MediatorDemo\obj\Debug\netcoreapp3.1\MediatorDemo.genruntimeconfig.cache
