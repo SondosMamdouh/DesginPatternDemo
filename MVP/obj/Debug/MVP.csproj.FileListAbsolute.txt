@@ -1,0 +1,10 @@
+D:\CDP\DesignPattrens\DesginPattrenDemos\MVP\bin\Debug\MVP.exe.config
+D:\CDP\DesignPattrens\DesginPattrenDemos\MVP\bin\Debug\MVP.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\MVP\bin\Debug\MVP.pdb
+D:\CDP\DesignPattrens\DesginPattrenDemos\MVP\obj\Debug\MVP.csprojAssemblyReference.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\MVP\obj\Debug\MVP.Form1.resources
+D:\CDP\DesignPattrens\DesginPattrenDemos\MVP\obj\Debug\MVP.Properties.Resources.resources
+D:\CDP\DesignPattrens\DesginPattrenDemos\MVP\obj\Debug\MVP.csproj.GenerateResource.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\MVP\obj\Debug\MVP.csproj.CoreCompileInputs.cache
+D:\CDP\DesignPattrens\DesginPattrenDemos\MVP\obj\Debug\MVP.exe
+D:\CDP\DesignPattrens\DesginPattrenDemos\MVP\obj\Debug\MVP.pdb
